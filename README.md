@@ -1,2 +1,3 @@
 # erkanbasar.github.io
-Personal GitHub Page
+
+Redirects to mebasar.com
