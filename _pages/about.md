@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <small>Computer scientist with a focus on artificial intelligence and language technologies</small> #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
