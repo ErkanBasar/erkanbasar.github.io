@@ -229,7 +229,6 @@ ul.task-list input[type="checkbox"] {
 
 .post-description {
   margin-bottom: 2rem;
-  font-size: 0.875rem;
 
   a {
     color: inherit;
@@ -383,7 +382,7 @@ ul.task-list input[type="checkbox"] {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 3rem;
 
     a {
       i::before {
@@ -523,7 +522,6 @@ footer.sticky-bottom {
 
 .tag-category-list {
   border-bottom: 1px solid var(--global-divider-color);
-  text-align: center;
   padding-top: 1rem;
 
   ul {

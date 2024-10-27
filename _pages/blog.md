@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /blog/
-title: Blog
+title: News
 nav: true
 nav_order: 1
 pagination:
@@ -23,9 +23,9 @@ pagination:
 
 {% if blog_name_size > 0 or blog_description_size > 0 %}
 
-  <div class="header-bar">
+  <div class="post-header">
     <h1>{{ site.blog_name }}</h1>
-    <h2>{{ site.blog_description }}</h2>
+    <p>{{ site.blog_description }}</p>
   </div>
   {% endif %}
 
