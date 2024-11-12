@@ -3,7 +3,7 @@
     "name": "Erkan Basar",
     "label": "Scientist",
     "image": "",
-    "email": "erkan[at]basar[dot]dev",
+    "email": "erkan@basar.dev",
     "url": "https://erkan.basar.dev",
     "summary": "Computer scientist with a focus on artificial intelligence, computational modelling, and machine learning for natural language processing research and applications.",
     "location": {
@@ -124,13 +124,13 @@
         "icon": "fa-solid fa-language"
     },
     {
-      "language": "Turkish",
-      "fluency": "Native speaker",
+      "language": "Dutch",
+      "fluency": "Intermediate (Certificate: B1)",
       "icon": "fa-solid fa-language"
     },
     {
-      "language": "Dutch",
-      "fluency": "Intermediate (Certificate: B1)",
+      "language": "Turkish",
+      "fluency": "Native speaker",
       "icon": "fa-solid fa-language"
     }
   ],
