@@ -134,7 +134,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: News # blog_name will be displayed in your blog page
 blog_description: Latest highlights and key moments.
-permalink: /blog/:year/:title/
+permalink: /news/:year/:title/
 lsi: false # produce an index for related posts
 
 # Pagination
@@ -300,9 +300,9 @@ jekyll-archives:
     tag: archive-tag
     category: archive-category
   permalinks:
-    year: "/blog/:year/"
-    tag: "/blog/tag/:name/"
-    category: "/blog/category/:name/"
+    year: "/news/:year/"
+    tag: "/news/tag/:name/"
+    category: "/news/category/:name/"
 
 display_tags: [] # these tags will be displayed on the front page of your blog
 display_categories: ["publication", "presentation"] # these categories will be displayed on the front page of your blog
