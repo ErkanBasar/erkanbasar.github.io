@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Invited Talk at RadboudUMC Research Strategy Day
-date: 2024-08-15 23:59:59
+date: 2024-06-26 23:59:59
 description: I was invited to give a talk at this year’s Research Strategy Day, organized by University Medical Center, on the significant impact of recent advancements in language modeling on the medical field.
 tags: talk
 categories: presentation
