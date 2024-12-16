@@ -8,7 +8,11 @@
           </h6>
           <h6 class="ml-2">{{ content.awarder }} · {{ content.date }}</h6>
           <h6 class="ml-2" style="font-size: 0.95rem;">{{ content.summary }}</h6>
-          <h6 class="ml-2" style="font-size: 0.95rem; font-style: italic"><a href="{{ content.url }}">{{ content.url }}</a></h6>
+          {% if content.url and content.url != "" %}
+            <h6 class="ml-2" style="font-size: 0.95rem; font-style: italic">
+              <a href="{{ content.url }}">Read more</a>
+            </h6>
+          {% endif %}
         </div>
       </div>
     </li>
