@@ -190,7 +190,7 @@
       "startDate": "Sep 2015",
       "endDate": "Aug 2017",
       "logo": "radboud.jpeg",
-      "highlights": ["Radboud Scholarship Programme Recipient"]
+      "highlights": ["Awarded Radboud Scholarship Programme"]
     },
     {
       "institution": "Muğla Sıtkı Koçman University",
@@ -240,6 +240,44 @@
       "keywords": ["LaTeX", "HTML", "CSS"]
     }
   ],
+  "organization": [
+    {
+      "organization": "Engaging Long-Term Interactions with Chatbots for Health",
+      "position": "Symposium Organization",
+      "location": "Nijmegen, Netherlands",
+      "url": "https://erkan.basar.dev/news/2024/chatbots-for-health-symposium/",
+      "date": "2024",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "Personalized Intelligent Conversational Agents Workshop",
+      "position": "Workshop Organization",
+      "location": "Online",
+      "url": "",
+      "date": "2021",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "The Multimedia Satellite Shared Task at MediaEval 2019",
+      "position": "Shared Task Organization",
+      "location": "Nice, France",
+      "url": "",
+      "date": "2019",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "28th Computational Linguistics in Netherlands (CLIN)",
+      "position": "Conference Organization",
+      "location": " Nijmegen, Netherlands",
+      "url": "",
+      "date": "2018",
+      "summary": "",
+      "highlights": []
+    }
+  ],
   "reviewing": [
     {
       "organization": "COLING 2025",
@@ -269,6 +307,15 @@
       "highlights": []
     },
     {
+      "organization": "CUI 2023",
+      "position": "Reviewer, Program Commitee Member",
+      "location": "",
+      "url": "",
+      "date": "2023",
+      "summary": "5th ACM conference on Conversational User Interfaces",
+      "highlights": []
+    },
+    {
       "organization": "IVA 2023",
       "position": "Reviewer, Program Commitee Member",
       "location": "",
@@ -276,43 +323,14 @@
       "date": "2023",
       "summary": "23rd ACM International Conference on Intelligent Virtual Agents",
       "highlights": []
-    }
-  ],
-  "organization": [
-    {
-      "organization": "Engaging Long-Term Interactions with Chatbots for Health",
-      "position": "Symposium Organization Team",
-      "location": "Nijmegen, Netherlands",
-      "url": "",
-      "date": "2024",
-      "summary": "",
-      "highlights": []
     },
     {
-      "organization": "Personalized Intelligent Conversational Agents Workshop",
-      "position": "Workshop Organization Team",
-      "location": "Online",
+      "organization": "NLG4Health",
+      "position": "Reviewer, Program Commitee Member",
+      "location": "",
       "url": "",
-      "date": "2021",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "organization": "The Multimedia Satellite Shared Task at MediaEval 2019",
-      "position": "Shared Task Organization Team",
-      "location": "Nice, France",
-      "url": "",
-      "date": "2019",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "organization": "28th Computational Linguistics in Netherlands (CLIN)",
-      "position": "Conference Organization Team",
-      "location": " Nijmegen, Netherlands",
-      "url": "",
-      "date": "2018",
-      "summary": "",
+      "date": "2022",
+      "summary": "15th International Natural Language Generation (INLG) Conference",
       "highlights": []
     }
   ],
