@@ -11,9 +11,9 @@
             {{ content.position }} · {{ content.date }}
           </h6>
           <h6 class="ml-2" style="font-size: 0.95rem;">
-            {% if content.location and content.location != "" %}<i>{{ content.location }}</i> {% endif %}
+            {% if content.location and content.location != "" %}<i>{{ content.location }}</i>{% endif %}
             {% if content.location != "" and content.url != "" %} · {% endif %}
-            {% if content.url and content.url != "" %} <i><a href="{{ content.url }}">Read more</a>{% endif %}</i>
+            {% if content.url and content.url != "" %}<i><a href="{{ content.url }}">Read more</a></i>{% endif %}
           </h6>
           <h6 class="ml-2" style="font-size: 0.95rem; font-style: italic">{{ content.summary }}</h6>
           <ul class="items">
