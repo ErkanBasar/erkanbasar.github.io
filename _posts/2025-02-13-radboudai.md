@@ -17,7 +17,7 @@ Radboud AI Events are organized by the [Radboud AI](https://www.ru.nl/en/departm
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/posts/2025-02-13/1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/posts/2025-02-13/1.png" class="img-fluid rounded z-depth-1" zoomable=true %}
         <i>The poster presented.</i>
     </div>
     <div class="col-sm mt-3 mt-md-0"></div>
