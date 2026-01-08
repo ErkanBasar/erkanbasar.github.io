@@ -11,6 +11,21 @@
   },
   "experience": [
     {
+      "position": "Postdoctoral Researcher",
+      "name": "Wageningen University & Research",
+      "location": "Wageninge, Netherlands",
+      "url": "",
+      "startDate": "July 2025",
+      "endDate": "Present",
+      "type": "full-time",
+      "logo": "wur.jpeg",
+      "summary": "",
+      "highlights": [
+        "Multidisciplinary research on natural language processing with the aim of developing an early warning system to detect allergens in novel foods.",
+        "More information on the overarching project: <a href=\"https://www.mosin-kic.nl\">https://www.mosin-kic.nl</a>"
+      ]
+    },
+    {
       "position": "PhD Candidate",
       "name": "Radboud University",
       "location": "Nijmegen, Netherlands",
@@ -22,8 +37,8 @@
       "logo": "radboud.jpeg",
       "summary": "",
       "highlights": [
-        "Multidisciplinary research on controlled usage of large language models for utterance generation and dialogue management in health-promoting conversational agents",
-        "More information on the project: <a href=\"https://look.uvt.nl\">https://look.uvt.nl</a>"
+        "Multidisciplinary research on controlled usage of large language models for utterance generation and dialogue management in health-promoting conversational agents.",
+        "More information on the overarching project: <a href=\"https://look.uvt.nl\">https://look.uvt.nl</a>"
       ]
     },
     {
@@ -161,7 +176,7 @@
       "logo": "msku.jpeg",
       "summary": "",
       "highlights": [
-        "Developed the official Android application of the university",
+        "Developed the official Android application of the university.",
         "Developed minor web applications for the computer engineering department."
       ]
     }
@@ -171,22 +186,23 @@
       "institution": "Radboud University",
       "location": "Nijmegen, Netherlands",
       "area": "",
-      "studyType": "PhD",
+      "studyType": "Artificial Intelligence, PhD",
       "url": "",
       "startDate": "Sep 2020",
       "endDate": "Feb 2025",
       "logo": "radboud.jpeg",
       "highlights": [
-        "Conversational Agents, Artificial Intelligence",
-        "More information on the project: <a href=\"https://look.uvt.nl\">https://look.uvt.nl</a>"
-      ]
+        "Dissertation title: \"Responsible and healthy conversations: Developing and evaluating engaging chatbots through controlled use of language models\".",
+        "Manuscript is available at: <a href=\"https://hdl.handle.net/2066/324344\">https://hdl.handle.net/2066/324344</a>",
+        "More information on the overarching project: <a href=\"https://look.uvt.nl\">https://look.uvt.nl</a>"
+        ]
     },
     {
       "institution": "Radboud University",
       "location": "Nijmegen, Netherlands",
       "url": "",
       "area": "",
-      "studyType": "Artificial Intelligence, MSc.",
+      "studyType": "Artificial Intelligence, MSc",
       "startDate": "Sep 2015",
       "endDate": "Aug 2017",
       "logo": "radboud.jpeg",
@@ -197,7 +213,7 @@
       "location": "Muğla, Turkey",
       "url": "",
       "area": "",
-      "studyType": "Computer Engineering, BSc.",
+      "studyType": "Computer Engineering, BSc",
       "startDate": "Sep 2011",
       "endDate": "Aug 2015",
       "logo": "msku.jpeg",
@@ -242,6 +258,15 @@
   ],
   "organization": [
     {
+      "organization": "NLG in the Lowlands 2025",
+      "position": "Workshop Organization",
+      "location": "Tilburg, Netherlands",
+      "url": "nlg-in-lowlands-2025",
+      "date": "2025",
+      "summary": "",
+      "highlights": []
+    },
+    {
       "organization": "Engaging Long-Term Interactions with Chatbots for Health",
       "position": "Symposium Organization",
       "location": "Nijmegen, Netherlands",
@@ -280,12 +305,30 @@
   ],
   "reviewing": [
     {
+      "organization": "LREC 2026",
+      "position": "Reviewer, Program Commitee Member",
+      "location": "",
+      "url": "",
+      "date": "2026",
+      "summary": "The 15th Language Resources and Evaluation Conference",
+      "highlights": []
+    },
+    {
+      "organization": "CHI 2025",
+      "position": "Reviewer, Program Commitee Member",
+      "location": "",
+      "url": "",
+      "date": "2026",
+      "summary": "The ACM CHI conference on Human Factors in Computing Systems",
+      "highlights": []
+    },
+    {
       "organization": "COLING 2025",
       "position": "Reviewer, Program Commitee Member",
       "location": "",
       "url": "",
-      "date": "2024",
-      "summary": "31st International Conference on Computational Linguistics",
+      "date": "2025",
+      "summary": "The 31st International Conference on Computational Linguistics",
       "highlights": []
     },
     {
@@ -294,7 +337,7 @@
       "location": "",
       "url": "",
       "date": "2024",
-      "summary": "Joint International Conference on Computational Linguistics, Language Resources and Evaluations",
+      "summary": "The Joint International Conference on Computational Linguistics, Language Resources and Evaluations",
       "highlights": []
     },
     {
@@ -303,7 +346,7 @@
       "location": "",
       "url": "",
       "date": "2024",
-      "summary": "24th ACM International Conference on Intelligent Virtual Agents",
+      "summary": "The 24th ACM International Conference on Intelligent Virtual Agents",
       "highlights": []
     },
     {
@@ -312,7 +355,7 @@
       "location": "",
       "url": "",
       "date": "2023",
-      "summary": "5th ACM conference on Conversational User Interfaces",
+      "summary": "The 5th ACM conference on Conversational User Interfaces",
       "highlights": []
     },
     {
@@ -321,7 +364,7 @@
       "location": "",
       "url": "",
       "date": "2023",
-      "summary": "23rd ACM International Conference on Intelligent Virtual Agents",
+      "summary": "The 23rd ACM International Conference on Intelligent Virtual Agents",
       "highlights": []
     },
     {
@@ -330,7 +373,7 @@
       "location": "",
       "url": "",
       "date": "2022",
-      "summary": "15th International Natural Language Generation (INLG) Conference",
+      "summary": "The 15th International Natural Language Generation (INLG) Conference",
       "highlights": []
     }
   ],

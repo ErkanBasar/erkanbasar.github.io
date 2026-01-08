@@ -41,16 +41,16 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: Artificial Intelligence, PhD
       institution: Radboud University, Nijmegen, The Netherlands
       year: 2020-2025
       description:
         - Conversational Agents, Artificial Intelligence
-    - title: Artificial Intelligence, M.Sc.
+    - title: Artificial Intelligence, MSc
       institution: Radboud University, Nijmegen, The Netherlands
       year: 2015-2017
       description:
         - Radboud Scholarship Programme Recipient
-    - title: Computer Engineering, B.Sc.
+    - title: Computer Engineering, BSc
       institution: Muğla Sıtkı Koçman University, Muğla, Turkey
       year: 2011-2015
