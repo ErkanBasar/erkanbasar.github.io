@@ -10,7 +10,7 @@ tabs: true
 featured: false
 ---
 
-Our paper “Autonomy-supporting chatbots: Endorsing volitional behavior change,” has been accepted to be published at [Ethics and Information Technology Journal](https://link.springer.com/journal/10676). In this paper, we have proposed a theoretical framework for designing chatbots that respect users’ autonomy while supporting them in making health and lifestyle choices.
+Our paper “Autonomy-supporting chatbots: Endorsing volitional behavior change” has been accepted and published at [Ethics and Information Technology Journal](https://link.springer.com/journal/10676). In this paper, we have proposed a theoretical framework for designing chatbots that respect users’ autonomy while supporting them in making health and lifestyle choices.
 
 Read the paper at [https://doi.org/10.1007/s10676-025-09877-8](https://doi.org/10.1007/s10676-025-09877-8)
 

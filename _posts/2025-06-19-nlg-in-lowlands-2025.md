@@ -4,7 +4,7 @@ title: Organizing NLG in the Lowlands 2025
 date: 2025-06-19 23:59:59
 description: I was one of the organizers of NLG in the Lowlands workshop where researchers from the Netherlands, Belgium, and Germany came together to exchange ideas and share their work on Natural Language Generation and related topics.
 tags: poster workshop
-categories: organisation presentation
+categories: organization presentation
 thumbnail: assets/img/posts/2025-06-19/thumbnail.jpg
 featured: false
 ---
