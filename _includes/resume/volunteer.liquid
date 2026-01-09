@@ -17,7 +17,7 @@
               {% if content.url contains '://' %}
                 <i><a href="{{ content.url }}">Read more</a></i>
               {% else %}
-                <i><a href="{{ content.url | prepend: '/' | prepend: content.date | prepend: '/news/' | prepend: site.baseurl }}">Read more</a></i>
+                <i><a href="{{ content.url | prepend: '/' | prepend: site.baseurl }}">Read more</a></i>
               {% endif %}
             {% endif %}
           </h6>
