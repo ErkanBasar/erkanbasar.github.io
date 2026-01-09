@@ -15,7 +15,7 @@ In the interview, I had the chance to share our key insights and findings from m
 
 Many thanks to [NRC](https://www.nrc.nl/) and [Ellen de Bruin](https://www.nrc.nl/auteur/ellen-de-bruin/) for bringing attention to our research and giving this topic a platform.
 
-Read the full news article, titled "ChatGPT gebruiken als therapeut? Ik zou het niet aanraden", on the NRC website [in Dutch]: [https://www.nrc.nl/nieuws/2025/12/14/chatgpt-gebruiken-als-therapeut-ik-zou-het-niet-aanraden-a4913854](https://www.nrc.nl/nieuws/2025/12/14/chatgpt-gebruiken-als-therapeut-ik-zou-het-niet-aanraden-a4913854).
+Read the full news article, titled "ChatGPT gebruiken als therapeut? Ik zou het niet aanraden", on the NRC website in Dutch: [https://www.nrc.nl/nieuws/2025/12/14/chatgpt-gebruiken-als-therapeut-ik-zou-het-niet-aanraden-a4913854](https://www.nrc.nl/nieuws/2025/12/14/chatgpt-gebruiken-als-therapeut-ik-zou-het-niet-aanraden-a4913854).
 
 #### Images
 

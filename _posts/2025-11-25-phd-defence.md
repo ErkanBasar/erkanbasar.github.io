@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Defended my PhD Dissertation
+title: Defending my PhD Dissertation
 date: 2025-11-25 23:59:59
 description: 'I am thrilled to share that I successfully defended my dissertation, titled "Responsible and Healthy Conversations: Developing and Evaluating Engaging Chatbots through Controlled Use of Language Models", and completed my PhD at Radboud University.'
 tags: defence dissertation

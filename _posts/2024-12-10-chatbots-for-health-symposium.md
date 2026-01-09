@@ -4,7 +4,7 @@ title: Organizing Chatbots for Health Symposium
 date: 2024-12-10 23:59:59
 description: We organized the Engaging Long-Term Interactions with Chatbots for Health symposium where we shared our progress and outcomes achieved over the past four years within the multidisciplinary Look Who's Talking project.
 tags: talk symposium
-categories: presentation organisation
+categories: organization presentation
 thumbnail: assets/img/posts/2024-12-10/thumbnail.jpg
 featured: false
 ---
