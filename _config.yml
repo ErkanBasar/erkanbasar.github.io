@@ -305,7 +305,7 @@ jekyll-archives:
     category: "/news/category/:name/"
 
 display_tags: [] # these tags will be displayed on the front page of your blog
-display_categories: ["publication", "presentation"] # these categories will be displayed on the front page of your blog
+display_categories: ["publication", "presentation", "organization"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
@@ -639,7 +639,7 @@ jsonresume:
   - education
   - publications
   - projects
-  - reviewing
+  - reviewer
   - organization
   - awards
   - certificates

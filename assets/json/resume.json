@@ -303,77 +303,77 @@
       "highlights": []
     }
   ],
-  "reviewing": [
+  "reviewer": [
     {
       "organization": "LREC 2026",
-      "position": "Reviewer, Program Commitee Member",
+      "position": "The 15th Language Resources and Evaluation Conference",
       "location": "",
       "url": "",
       "date": "2026",
-      "summary": "The 15th Language Resources and Evaluation Conference",
+      "summary": "",
       "highlights": []
     },
     {
       "organization": "CHI 2026",
-      "position": "Reviewer, Program Commitee Member",
+      "position": "The ACM CHI conference on Human Factors in Computing Systems",
       "location": "",
       "url": "",
       "date": "2026",
-      "summary": "The ACM CHI conference on Human Factors in Computing Systems",
+      "summary": "",
       "highlights": []
     },
     {
       "organization": "COLING 2025",
-      "position": "Reviewer, Program Commitee Member",
+      "position": "The 31st International Conference on Computational Linguistics",
       "location": "",
       "url": "",
       "date": "2025",
-      "summary": "The 31st International Conference on Computational Linguistics",
+      "summary": "",
       "highlights": []
     },
     {
       "organization": "LREC-COLING 2024",
-      "position": "Reviewer, Program Commitee Member",
+      "position": "The Joint International Conference on Computational Linguistics, Language Resources and Evaluations",
       "location": "",
       "url": "",
       "date": "2024",
-      "summary": "The Joint International Conference on Computational Linguistics, Language Resources and Evaluations",
+      "summary": "",
       "highlights": []
     },
     {
       "organization": "IVA 2024",
-      "position": "Reviewer, Program Commitee Member",
+      "position": "The 24th ACM International Conference on Intelligent Virtual Agents",
       "location": "",
       "url": "",
       "date": "2024",
-      "summary": "The 24th ACM International Conference on Intelligent Virtual Agents",
+      "summary": "",
       "highlights": []
     },
     {
       "organization": "CUI 2023",
-      "position": "Reviewer, Program Commitee Member",
+      "position": "The 5th ACM conference on Conversational User Interfaces",
       "location": "",
       "url": "",
       "date": "2023",
-      "summary": "The 5th ACM conference on Conversational User Interfaces",
+      "summary": "",
       "highlights": []
     },
     {
       "organization": "IVA 2023",
-      "position": "Reviewer, Program Commitee Member",
+      "position": "The 23rd ACM International Conference on Intelligent Virtual Agents",
       "location": "",
       "url": "",
       "date": "2023",
-      "summary": "The 23rd ACM International Conference on Intelligent Virtual Agents",
+      "summary": "",
       "highlights": []
     },
     {
       "organization": "NLG4Health",
-      "position": "Reviewer, Program Commitee Member",
+      "position": "The 15th International Natural Language Generation (INLG) Conference",
       "location": "",
       "url": "",
       "date": "2022",
-      "summary": "The 15th International Natural Language Generation (INLG) Conference",
+      "summary": "",
       "highlights": []
     }
   ],
