@@ -192,7 +192,7 @@
       "endDate": "Feb 2025",
       "logo": "radboud.jpeg",
       "highlights": [
-        "Dissertation title: \"Responsible and healthy conversations: Developing and evaluating engaging chatbots through controlled use of language models\".",
+        "Dissertation title: \"Responsible and healthy conversations: Developing and evaluating engaging chatbots through controlled use of language models\"",
         "Manuscript is available at: <a href=\"https://hdl.handle.net/2066/324344\">https://hdl.handle.net/2066/324344</a>",
         "More information on the overarching project: <a href=\"https://look.uvt.nl\">https://look.uvt.nl</a>"
         ]
@@ -206,7 +206,9 @@
       "startDate": "Sep 2015",
       "endDate": "Aug 2017",
       "logo": "radboud.jpeg",
-      "highlights": ["Awarded Radboud Scholarship Programme"]
+      "highlights": [
+        "Awarded <a href=\"#awards-1\">Radboud Scholarship Programme</a>."
+      ]
     },
     {
       "institution": "Muğla Sıtkı Koçman University",
