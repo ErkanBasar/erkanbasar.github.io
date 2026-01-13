@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Invited Talk at BNAIC2024
+title: Presentation and Panel at BNAIC2024
 date: 2024-10-19 23:59:59
 description: I had the opportunity to speak and participate in a panel discussion at BNAIC2024, where we tackled topics surrounding the recent developments in the field of AI and their impact.
-tags: talk conference
+tags: panel conference
 categories: presentation
 thumbnail: assets/img/posts/2024-10-19/thumbnail.jpg
 featured: false
