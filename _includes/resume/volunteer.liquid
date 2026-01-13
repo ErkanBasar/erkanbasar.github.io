@@ -7,13 +7,13 @@
           <h6 class="title font-weight-bold ml-2">
             {{ content.organization }}
           </h6>
-          <h6 class="ml-2" style="font-size: 0.95rem">
-            {{ content.position }} · {{ content.date }}
-          </h6>
+          <h6 class="ml-2" style="font-size: 0.95rem">{{ content.position }} · {{ content.date }}</h6>
           <h6 class="ml-2" style="font-size: 0.95rem;">
-            {% if content.location and content.location != "" %}<i>{{ content.location }}</i>{% endif %}
-            {% if content.location != "" and content.url != "" %} · {% endif %}
-            {% if content.url and content.url != "" %}
+            {% if content.location and content.location != '' -%}
+              <i>{{ content.location }}</i>
+            {%- endif %}
+            {% if content.location != '' and content.url != '' %} · {% endif %}
+            {% if content.url and content.url != '' %}
               {% if content.url contains '://' %}
                 <i><a href="{{ content.url }}">Read more</a></i>
               {% else %}

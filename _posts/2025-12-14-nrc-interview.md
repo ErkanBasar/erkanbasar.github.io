@@ -28,4 +28,4 @@ Read the full news article, titled "ChatGPT gebruiken als therapeut? Ik zou het 
 
 ---
 
-Find and like this news on [<i class="fa-brands fa-linkedin"></i> LinkedIn](https://www.linkedin.com/posts/activity-7406332878843822080-C39_){:target="_blank"}
+Find and like this news on [<i class="fa-brands fa-linkedin"></i> LinkedIn](https://www.linkedin.com/posts/activity-7406332878843822080-C39_){:target="\_blank"}

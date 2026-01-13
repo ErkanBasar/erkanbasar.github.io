@@ -19,4 +19,4 @@ I was invited to present at this year’s Smooth Operators Festival, where I had
 
 ---
 
-Find and like this news on [<i class="fa-brands fa-linkedin"></i> LinkedIn](https://www.linkedin.com/posts/activity-7336017933900341248-XvOr){:target="_blank"}
+Find and like this news on [<i class="fa-brands fa-linkedin"></i> LinkedIn](https://www.linkedin.com/posts/activity-7336017933900341248-XvOr){:target="\_blank"}

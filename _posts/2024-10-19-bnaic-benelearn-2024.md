@@ -21,4 +21,4 @@ The conference is organized by Utrecht University with the support of the Benelu
 
 ---
 
-Find and like this news on [<i class="fa-brands fa-linkedin"></i> LinkedIn](https://www.linkedin.com/posts/activity-7267567270497849344-npwp){:target="_blank"}
+Find and like this news on [<i class="fa-brands fa-linkedin"></i> LinkedIn](https://www.linkedin.com/posts/activity-7267567270497849344-npwp){:target="\_blank"}

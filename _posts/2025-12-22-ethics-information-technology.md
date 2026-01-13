@@ -2,7 +2,7 @@
 layout: post
 title: Publication at Ethics and Information Technology
 date: 2025-12-22 23:59:59
-description: 'Our paper “Autonomy-supporting chatbots: Endorsing volitional behavior change”, where we have proposed a theoretical framework for designing chatbots that respects users’ autonomy, is published at Ethics and Information Technology Journal.'
+description: 'Our paper "Autonomy-supporting chatbots: Endorsing volitional behavior change", where we have proposed a theoretical framework for designing chatbots that respects users’ autonomy, is published at Ethics and Information Technology Journal.'
 tags: journal
 categories: publication
 thumbnail: assets/img/posts/2025-12-22/thumbnail.jpg

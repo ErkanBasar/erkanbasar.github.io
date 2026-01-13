@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lecture at SIKS Course: AI & Human Behaviour'
+title: "Lecture at SIKS Course: AI & Human Behaviour"
 date: 2025-06-24 23:59:59
 description: I was invited to give a lecture and workshop as part of the AI & Human Behaviour course at the SIKS graduate school where we discussed health counselling chatbots for long-term engagement.
 tags: talk lecture

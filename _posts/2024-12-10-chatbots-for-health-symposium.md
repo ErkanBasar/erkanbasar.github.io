@@ -17,12 +17,12 @@ Trying to change a person's health behaviour is difficult. The services offered 
 
 #### Program
 
-| 15 min | Opening remarks and introduction         | Tibor Bosse   | Radboud University      |
-| 45 min | Chatting Your Way to Quitting            | Linwei He     | Tilburg University      |
-| 45 min | Designing Chatbots for Behaviour Change  | Divyaa Balaji | University of Amsterdam |
-| 45 min | Leveraging Large Language Models         | Erkan Basar   | Radboud University      |
-| 30 min | Panel discussion                         |             | |
-|        |                                          |             | |
+| 15 min | Opening remarks and introduction | Tibor Bosse | Radboud University |
+| 45 min | Chatting Your Way to Quitting | Linwei He | Tilburg University |
+| 45 min | Designing Chatbots for Behaviour Change | Divyaa Balaji | University of Amsterdam |
+| 45 min | Leveraging Large Language Models | Erkan Basar | Radboud University |
+| 30 min | Panel discussion | | |
+| | | | |
 
 #### Chatting Your Way to Quitting: Designing and Evaluating Chatbots for Long-term Smoking Cessation Support
 
@@ -65,4 +65,4 @@ Can task-oriented long-term chatbots be enhanced through the natural language ge
 
 ---
 
-Find and like this news on [<i class="fa-brands fa-linkedin"></i> LinkedIn](https://www.linkedin.com/posts/activity-7272626135882964992-095u){:target="_blank"}
+Find and like this news on [<i class="fa-brands fa-linkedin"></i> LinkedIn](https://www.linkedin.com/posts/activity-7272626135882964992-095u){:target="\_blank"}

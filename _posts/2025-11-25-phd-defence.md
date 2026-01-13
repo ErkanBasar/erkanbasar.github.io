@@ -45,4 +45,4 @@ Special thanks to the members of my thesis committee, Dr. Serge Thill, Prof. Dr.
 
 ---
 
-Find and like this news on [<i class="fa-brands fa-linkedin"></i> LinkedIn](https://www.linkedin.com/posts/activity-7402759801191129090-G_0H){:target="_blank"}
+Find and like this news on [<i class="fa-brands fa-linkedin"></i> LinkedIn](https://www.linkedin.com/posts/activity-7402759801191129090-G_0H){:target="\_blank"}

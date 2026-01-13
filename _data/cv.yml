@@ -14,7 +14,7 @@
   type: time_table
   contents:
     - title: PhD Candidate
-      institution:  Radboud University, Nijmegen, The Netherlands
+      institution: Radboud University, Nijmegen, The Netherlands
       year: 2020-2025
       description:
         - Multidisciplinary research on controlled usage of large language models for utterance generation and dialogue management in health-promoting conversational agen
@@ -36,7 +36,6 @@
       year: 2015-2016
       description:
         - Developments of web interfaces and RESTful APIs for several text mining research projects.
-
 
 - title: Education
   type: time_table

@@ -12,9 +12,13 @@
     <li class="list-group-item">
       <div class="row">
         <div class="col-md-1" style="padding-right: 0; padding-left: 5px;">
-              {% if content.logo %}
-                    <img src="{{ content.logo | prepend: 'assets/img/cv_logos/' | relative_url }}" style="object-fit: cover; width: 98%; max-width: 70px; float: left; border-radius: 10%;" alt="organisation logo">
-              {% endif %}
+          {% if content.logo %}
+            <img
+              src="{{ content.logo | prepend: 'assets/img/cv_logos/' | relative_url }}"
+              style="object-fit: cover; width: 98%; max-width: 70px; float: left; border-radius: 10%;"
+              alt="organisation logo"
+            >
+          {% endif %}
         </div>
         <div class="col-xs-11 col-sm-11 col-md-11 mt-2 mt-md-0" style="padding-left: 0;">
           <h6 class="title font-weight-bold ml-1 ml-md-4">
@@ -24,7 +28,13 @@
             {{ content.name }}
           </h6>
           <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">
-            {{ date }} {% if content.duration %}<i> · {{ content.duration }}</i>{% endif %} {% if content.type %}<i> · {{ content.type }}</i>{% endif %}
+            {{ date }}
+            {% if content.duration -%}
+              <i> · {{ content.duration }}</i>
+            {%- endif %}
+            {% if content.type -%}
+              <i> · {{ content.type }}</i>
+            {%- endif %}
           </h6>
           {% if content.location %}
             <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">
@@ -35,9 +45,9 @@
             {{ content.summary }}
           </h6>
           {% if content.url %}
-          <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic;">
-            <a href="{{ content.url }}">{{ content.url }}</a>
-          </h6>
+            <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic;">
+              <a href="{{ content.url }}">{{ content.url }}</a>
+            </h6>
           {% endif %}
           <ul class="items">
             {% for item in content.highlights %}

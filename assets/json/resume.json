@@ -115,9 +115,7 @@
       "type": "part-time",
       "logo": "radboud.jpeg",
       "summary": "",
-      "highlights": [
-        "Research focused on information extraction from unstructured text for low resource languages."
-      ]
+      "highlights": ["Research focused on information extraction from unstructured text for low resource languages."]
     },
     {
       "position": "Scientific Software Developer",
@@ -130,9 +128,7 @@
       "type": "part-time",
       "logo": "radboud.jpeg",
       "summary": "",
-      "highlights": [
-        "Developments of web interfaces and RESTful APIs for several text mining research projects."
-      ]
+      "highlights": ["Developments of web interfaces and RESTful APIs for several text mining research projects."]
     },
     {
       "position": "Teaching Assitant",
@@ -195,7 +191,7 @@
         "Dissertation title: \"Responsible and healthy conversations: Developing and evaluating engaging chatbots through controlled use of language models\"",
         "Manuscript is available at: <a href=\"https://hdl.handle.net/2066/324344\">https://hdl.handle.net/2066/324344</a>",
         "More information on the overarching project: <a href=\"https://look.uvt.nl\">https://look.uvt.nl</a>"
-        ]
+      ]
     },
     {
       "institution": "Radboud University",
@@ -206,9 +202,7 @@
       "startDate": "Sep 2015",
       "endDate": "Aug 2017",
       "logo": "radboud.jpeg",
-      "highlights": [
-        "Awarded <a href=\"#awards-1\">Radboud Scholarship Programme</a>."
-      ]
+      "highlights": ["Awarded <a href=\"#awards-1\">Radboud Scholarship Programme</a>."]
     },
     {
       "institution": "Muğla Sıtkı Koçman University",
@@ -240,12 +234,25 @@
     {
       "name": "Computer Science Skills",
       "icon": "fa-solid fa-computer",
-      "keywords": ["Language Modelling", "Natural Language Generation", "Text Mining", "Information Extraction", "Machine Learning", "Artificial Neural Networks"]
+      "keywords": [
+        "Language Modelling",
+        "Natural Language Generation",
+        "Text Mining",
+        "Information Extraction",
+        "Machine Learning",
+        "Artificial Neural Networks"
+      ]
     },
     {
       "name": "Technical Skills",
       "icon": "fa-solid fa-gears",
-      "keywords": ["Linux Server Administration (Ubuntu)", "API Development & Deployment (Flask)", "Web Server Management (Nginx)", "Full Stack Web Development", "Data Analytics & Visualization"]
+      "keywords": [
+        "Linux Server Administration (Ubuntu)",
+        "API Development & Deployment (Flask)",
+        "Web Server Management (Nginx)",
+        "Full Stack Web Development",
+        "Data Analytics & Visualization"
+      ]
     },
     {
       "name": "Programming Languages",
