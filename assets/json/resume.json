@@ -12,17 +12,32 @@
   "experience": [
     {
       "position": "Postdoctoral Researcher",
+      "name": "Vrije Universiteit",
+      "location": "Amsterdam, Netherlands",
+      "url": "",
+      "startDate": "November 2026",
+      "endDate": "Present",
+      "type": "full-time",
+      "logo": "vu.jpeg",
+      "summary": "",
+      "highlights": [
+        "Research on human-AI collaboration, focusing on the continuous alignment of shared perceptions and memories in conversational agents.",
+        "More information on the overarching project: <a href=\"https://www.hybrid-intelligence-centre.nl/\">hybrid-intelligence-centre.nl</a>"
+      ]
+    },
+    {
+      "position": "Postdoctoral Researcher",
       "name": "Wageningen University & Research",
       "location": "Wageningen, Netherlands",
       "url": "",
       "startDate": "July 2025",
-      "endDate": "Present",
+      "endDate": "October 2026",
       "type": "full-time",
       "logo": "wur.jpeg",
       "summary": "",
       "highlights": [
         "Multidisciplinary research on natural language processing with the aim of developing an early warning system to detect allergens in novel foods.",
-        "More information on the overarching project: <a href=\"https://www.mosin-kic.nl\">https://www.mosin-kic.nl</a>"
+        "More information on the overarching project: <a href=\"https://www.mosin-kic.nl\">mosin-kic.nl</a>"
       ]
     },
     {
@@ -34,11 +49,11 @@
       "endDate": "Feb 2025",
       "duration": "4 yr 6 mos",
       "type": "full-time",
-      "logo": "radboud.jpeg",
+      "logo": "ru.jpeg",
       "summary": "",
       "highlights": [
         "Multidisciplinary research on controlled usage of large language models for utterance generation and dialogue management in health-promoting conversational agents.",
-        "More information on the overarching project: <a href=\"https://look.uvt.nl\">https://look.uvt.nl</a>"
+        "More information on the overarching project: <a href=\"https://look.uvt.nl\">look.uvt.nl</a>"
       ]
     },
     {
@@ -81,7 +96,7 @@
       "endDate": "Jul 2020",
       "duration": "5 mos",
       "type": "part-time",
-      "logo": "radboud.jpeg",
+      "logo": "ru.jpeg",
       "summary": "",
       "highlights": [
         "Developed a system that converts Dutch dialect words into their dictionary forms.",
@@ -113,7 +128,7 @@
       "endDate": "Sep 2019",
       "duration": "1 yr 6 mos",
       "type": "part-time",
-      "logo": "radboud.jpeg",
+      "logo": "ru.jpeg",
       "summary": "",
       "highlights": ["Research focused on information extraction from unstructured text for low resource languages."]
     },
@@ -126,7 +141,7 @@
       "endDate": "Mar 2016",
       "duration": "7 mos",
       "type": "part-time",
-      "logo": "radboud.jpeg",
+      "logo": "ru.jpeg",
       "summary": "",
       "highlights": ["Developments of web interfaces and RESTful APIs for several text mining research projects."]
     },
@@ -154,7 +169,7 @@
       "endDate": "Sep 2014",
       "duration": "4 mos",
       "type": "internship",
-      "logo": "radboud.jpeg",
+      "logo": "ru.jpeg",
       "summary": "",
       "highlights": [
         "Developed a web interface for a project on event detection from social media on the basis of two PhD studies at the Centre for Language and Speech Technologies."
@@ -186,7 +201,7 @@
       "url": "",
       "startDate": "Sep 2020",
       "endDate": "Feb 2025",
-      "logo": "radboud.jpeg",
+      "logo": "ru.jpeg",
       "highlights": [
         "Dissertation title: \"Responsible and healthy conversations: Developing and evaluating engaging chatbots through controlled use of language models\"",
         "Manuscript is available at: <a href=\"https://hdl.handle.net/2066/324344\">https://hdl.handle.net/2066/324344</a>",
@@ -201,8 +216,8 @@
       "studyType": "Artificial Intelligence, MSc",
       "startDate": "Sep 2015",
       "endDate": "Aug 2017",
-      "logo": "radboud.jpeg",
-      "highlights": ["Awarded <a href=\"#awards-1\">Radboud Scholarship Programme</a>."]
+      "logo": "ru.jpeg",
+      "highlights": ["Awarded a complete scholarship by <a href=\"#awards-1\">Radboud Scholarship Programme</a>."]
     },
     {
       "institution": "Muğla Sıtkı Koçman University",
