@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a computer scientist specializing in AI and machine learning, with a focus on language technologies, mainly conversational agents. My work is aimed at advancing research in AI and its practical applications. I enjoy working in multidisciplinary environments, collaborating with experts across various domains to bring innovative and effective solutions to complex challenges.
+I am a computer scientist specializing in AI and machine learning, with a focus on language technologies. My work is aimed at advancing research in AI and its practical applications. I enjoy working in multidisciplinary environments, collaborating with experts across various domains to bring innovative and effective solutions to complex challenges.
 
 Currently, I work as a postdoctoral researcher in [Computational Linguistics and Text Mining Lab](https://home.cltl.labs.vu.nl/) at [Vrije Universiteit Amsterdam](https://www.vu.nl/). My research is on human-AI collaboration, focusing on the continuous alignment of shared perceptions and memories in conversational agents, as part of the [Hybrid Intelligence](https://www.hybrid-intelligence-centre.nl/) project.
 
